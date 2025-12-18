@@ -108,11 +108,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ✔ Project Completed and Submitted
 
 ---
-
-## 📬 Contact
-
-For academic or demonstration purposes only.
-
-**Repository Maintainer:** Aditya Gadilkar
-
----
