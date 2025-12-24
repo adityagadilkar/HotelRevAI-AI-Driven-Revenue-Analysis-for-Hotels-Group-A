@@ -23,6 +23,7 @@ This repository contains the **Internship Completion Report** for the project **
 | 3 | Likhita Patnaik |
 | 4 | Sahithi Akula |
 | 5 | Adarsh Rout |
+| 6 | Neha Maram |
 
 ---
 
